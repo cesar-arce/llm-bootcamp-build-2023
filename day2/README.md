@@ -2,7 +2,7 @@
 
 ### Prerequisite
 
-#### Snowpark Container Services (SPCS) Enabled Snowflake User Account
+Snowpark Container Services (SPCS) Enabled Snowflake User Account
 
 **NOTE**: If you are not able to access a SPCS-enabled Snowflake user account, you can still attend sessions on Day 1 and Day 2 to earn the badge after completing the assessment by December 8, 2023 11:59PM Pacific Time.
 
