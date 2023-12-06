@@ -2,19 +2,15 @@
 
 ### Prerequisite
 
-Successfully completed [BUILD LLM Bootcamp Day 1](https://github.com/Snowflake-Labs/build-llm-bootcamp-2023/blob/main/day1/README.md).
+#### Snowpark Container Services (SPCS) Enabled Snowflake User Account
 
-### Snowpark Container Services (SPCS) User Account
-
-Get exclusive access to Snowpark Container Services - currently in Private Preview - by clicking on the link provided during the LLM Bootcamp session.
-
-**NOTE**: If you are not able to get a SPCS user account, you can still attend sessions on Day 1 and Day 2 to earn the badge after completing the assessment by December 8, 2023 11:59PM Pacific Time.
+**NOTE**: If you are not able to access a SPCS-enabled Snowflake user account, you can still attend sessions on Day 1 and Day 2 to earn the badge after completing the assessment by December 8, 2023 11:59PM Pacific Time.
 
 ### Environment Setup
 
-#### Step 1: Snowflake Login
+#### Step 1: Login
 
-Log into your Snowflake account using the account URL and credentials provided to you on Day 1.
+Log into your SPCS-enabled Snowflake user account using the account URL and credentials provided to you on Day 1.
 
 #### Step 2: Create SQL Worksheet
 
