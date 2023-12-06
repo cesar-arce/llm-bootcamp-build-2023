@@ -14,7 +14,7 @@ Get exclusive access to Snowpark Container Services - currently in Private Previ
 
 #### Step 1: Snowflake Login
 
-Log into Snowflake account using your credentials -- [https://app.snowflake.com/sfsenorthamerica/build_spcs](https://app.snowflake.com/sfsenorthamerica/build_spcs)
+Log into your Snowflake account using the account URL and credentials provided to you on Day 1.
 
 #### Step 2: Create SQL Worksheet
 
