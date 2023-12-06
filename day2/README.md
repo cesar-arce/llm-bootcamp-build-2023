@@ -51,9 +51,9 @@ Drop service from Day 1 to free up resources for Day 2 by running the following 
 show services;
 ```
 
-Assuming you have successfully completed hands-on lab from Day 1, the above command will list service that was created when you deployed Llama 2 from Hugging Face in SPCS. If that's the case, run the following command to drop that service.
+Assuming you have successfully completed hands-on lab from Day 1, the above command will list service that was created when you deployed Llama 2 from Hugging Face in SPCS. If that's the case, run the following command to drop that service. The service ID should like something like `SERVICE_FD43C8AA84BD11EE8E7CE246F4FD5A27If`.
 
-NOTE: The service ID should like something like SERVICE_FD43C8AA84BD11EE8E7CE246F4FD5A27If, but if no services are listed, that's ok -- move on to the next step.
+NOTE: If no services are listed, that's ok -- move on to Step 5 below.
 
 ```sql
 drop service SERVICE_ID_GOES_HERE;
