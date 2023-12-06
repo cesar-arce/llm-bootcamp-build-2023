@@ -1,0 +1,29 @@
+LLM Bootcamp - Part 2
+Wednesday, December 6⋅17:00 – 17:54
+PART 2. Join our LLM Bootcamp over two days to learn how to build with generative AI on Snowflake. We'll cover LLM fundamentals, lecture style, then dive in, deploying Llama 2 in a container and fine tuning it to improve accuracy. Successfully complete the test to earn a digital badge you can display on your social profiles to show off your new skills. Part 1 is a prerequisite to part 2. If you did not attend Part 1, please watch Part 1 on demand, then come back to Part 2.
+
+PLEASE NOTE:
+
+Limited capacity: be sure to join on time to grab one of the limited user-ids with private preview access to Snowpark Container Services that you will need to complete the lab portions of the bootcamp. If you are not able to grab one of them, you will still be able to join the bootcamp and earn the badge by successfully completing the assessment
+
+Prerequisites:
+
+•Working knowledge of Python and SQL
+•Experience working with Docker
+Pre-work: Please configure your environment ahead attending to ensure you can follow along the lab portions of the bootcamp:
+
+•Laptop with wifi and ability to download libraries and Python packages from the web
+•Docker Desktop (https://docs.docker.com/desktop/) installed
+•VS Code (recommended) or other IDE
+•A Hugging Face account (https://huggingface.co/)
+•Completed Llama 2 request form (https://ai.meta.com/resources/models-and-libraries/llama-downloads/). Note that your Hugging Face account email address MUST match the email you provide on the Meta website or your request will not be approved
+•After approval, submit the form (https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) to access Llama 2 on HuggingFace to unlock access to the model: (this could take several hours).
+Documentation and code to use during session: https://github.com/Snowflake-Labs/build-llm-bootcamp-2023/blob/main/day2/README.md
+
+
+
+
+*The Frosty Toys demo is a hypothetical intended to demonstrate functionality. Toy names, while real, were selected from various websites listing top toy selections in 2023. Results depicted as part of the hypothetical are for illustrative purposes only, and are not meant to endorse or promote any specific toy or toy company. 
+
+
+https://events.snowflake.com/auth/emailAssociatedLogin/verifyTokenAndRedirect?token=bZn5WSZZeGiqCMN67LYl8bxub5V_63aM8kGoEOhfxVy4mGvAox3DTRhUX99wkbIk&eventGroupId=47171&redirectUrl=https://www.snowflake.com/build/americas/agenda?agendaPath=session/1249023?login=ML
