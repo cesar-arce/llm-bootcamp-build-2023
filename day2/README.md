@@ -20,16 +20,18 @@ Log into your Snowflake account using the account URL and credentials provided t
 
 After you log into your Snowflake account, click on **Worksheets** on the left navigation menu and then click on '+' button on top right and select **SQL Worksheet**.
 
-#### Step 3: Select Database, Schema, and Warehouse
+#### Step 3: Select Role, Database, Schema, and Warehouse
 
-In the SQL Worksheet, run the following commands to select database, schema, and warehouse assigned to you:
+In the SQL Worksheet, run the following commands to select your role, database, schema, and warehouse assigned to you:
 
 ```sql
-use DB_USER####.SCHEMA_LLM;
+use ROLE ROLE_USER####;
+use DATABASE DB_USER####;
+use SCHEMA DB_USER####.SCHEMA_LLM;
 use WAREHOUSE WH_XS_USER####;
 ```
 
-NOTE: In the above SQL, replace `####` in database name and warehouse with your user number.
+NOTE: In the above statements, replace `####` with your user number.
 
 #### Step 4: Compute Pool Status
 
